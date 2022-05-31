@@ -2,7 +2,7 @@
 
 This repo contains sample use of Terraform Variables using random_pet provider.
 
-I have configured to use by default "10" as a random var. If you wish to specify your own [var](https://www.terraform.io/language/values/variables#variables-on-the-command-line) during plan execution, you can use  "-var="length=20"" to your command.
+I have configured to use by default "10" as a random var. If you wish to specify your own [var](https://www.terraform.io/language/values/variables#variables-on-the-command-line) during plan execution, you can use  `-var="length=20"` to your command.
 
 # Prerequisite
 You need to have [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) >= 0.12 installed on you workstation. 
