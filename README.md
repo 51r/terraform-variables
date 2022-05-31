@@ -34,7 +34,7 @@ terraform plan
 terraform apply
 ```
 
-* Once you confirm the plan execution you can check your random_id with the following command:
+* Once you confirm the plan execution you can check your random_pet with the following command:
 ```
 terraform show
 ```
